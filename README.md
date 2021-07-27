@@ -11,6 +11,9 @@
 </p>
 
 <hr>
+<p align="center">
+  <img src="https://github.com/aysnrdurak/aysnrdurak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <!--
 **aysnrdurak/aysnrdurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
