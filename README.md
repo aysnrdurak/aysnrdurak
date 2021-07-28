@@ -29,6 +29,9 @@
 <a href="https://medium.com/@aysnrdurak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aysnrdurak" height="30" width="30" /></a>
 
 </p>
+<hr>
+<p align="center">
+  <img src="https://github.com/aysnrdurak/aysnrdurak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 
 
 <!--
