@@ -20,8 +20,14 @@
 
 
 <h3 align="center">Connect with me:</h3>
+
+</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/aysenurdurak/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Aysenur Durak" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aysenurdurak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="aysenurdurak" height="30" width="30" /></a>
+<a href="https://twitter.com/aysnrdurak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aysnrdurak" height="30" width="30" /></a>
+<a href="https://kaggle.com/aysenurdurak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aysenurdurak" height="30" width="30" /></a>
+<a href="https://medium.com/@aysnrdurak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aysnrdurak" height="30" width="30" /></a>
+
 </p>
 
 <hr>
