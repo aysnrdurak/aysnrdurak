@@ -30,16 +30,7 @@
 
 </p>
 
-<hr>
-<p align="center">
-  <img src="https://github.com/aysnrdurak/aysnrdurak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<p align="center">
-<a href="https://twitter.com/aysnrdurak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aysnrdurak" height="30" width="30" /></a>
-<a href="https://kaggle.com/aysenurdurak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aysenurdurak" height="30" width="30" /></a>
-<a href="https://medium.com/@aysnrdurak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aysnrdurak" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/aysenurdurak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="aysenurdurak" height="30" width="30" /></a>
-</p>
+
 <!--
 **aysnrdurak/aysnrdurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
