@@ -31,6 +31,7 @@
 </p>
 <hr>
 <p align="center">
+         
 ![snake gif](https://github.com/aysnrdurak/aysnrdurak/blob/output/github-contribution-grid-snake.gif)
 
 
