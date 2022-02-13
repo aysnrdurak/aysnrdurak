@@ -31,7 +31,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/aysnrdurak/aysnrdurak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+![snake gif](https://github.com/aysnrdurak/aysnrdurak/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
