@@ -15,8 +15,6 @@
 </p>
 
 - 👨🏽‍💻 I’m currently work as a Data Engineer at Bosch Turkey
-- 🔭 I’m currently working on **Image Processing and Image Segmentation**
-- 🌱 I’m currently learning **PyTorch, Reinforcement Learning**
 - 📫 How to reach me **aysnrdurak@gmail.com**
 
 
