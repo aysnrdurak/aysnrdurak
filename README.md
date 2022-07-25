@@ -14,9 +14,8 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>  
 </p>
 
-- 👨🏽‍💻 I’m currently work as a Data Engineer at Bosch Turkey
 - 📫 How to reach me **aysnrdurak@gmail.com**
-
+- 🔭 Medium: @aysnrdurak
 
 <h3 align="center">Connect with me:</h3>
 
