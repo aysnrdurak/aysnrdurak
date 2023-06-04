@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Aysenur</h1>
 <hr>
-<h3 align="center">I am currently working at Bosch Turkey as a Data Engineer. Also I am an electrical and electronics engineering student. I interested in data science, machine learning and deep learning.</h3>
+<h3 align="center">I am currently working at Bosch Turkey as a Software Development Engineer. Also I am an electrical and electronics engineering student. I interested in data science, machine learning and deep learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysnrdurak&color=lightgrey" alt="aysnrdurak" /> </p>
 
 <p align="center">
