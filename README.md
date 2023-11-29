@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aysenur <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </h1>
 <hr>
-<h3 align="center">I am currently working at Bosch Turkey as a Software Development Engineer. Also I am an electrical and electronics engineering student. I interested in data science, machine learning and deep learning.</h3>
+<h3 align="center">I am currently working at Bosch Powertrain Soltions Turkey as a Software Development Engineer. Also I am an electrical and electronics engineering student. I interested in data science, machine learning and deep learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysnrdurak&color=lightgrey" alt="aysnrdurak" /> </p>
 
 <p align="center">
