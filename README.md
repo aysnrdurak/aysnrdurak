@@ -1,15 +1,8 @@
 <h1 align="center">Hi, I'm Aysenur <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </h1>
 <hr>
-<h3 align="center">I am currently working at Bosch Powertrain Soltions as a Software Development Engineer. Also I am an electrical and electronics engineering student. I interested in data science, machine learning and deep learning.</h3>
+<h3 align="center">I’m a Test and Strategy Engineer at Ford Otosan, specializing in creating calibration and configuration files for Ford Transit vehicles. With a background in electrical and electronics engineering, I’ve previously worked as a data engineer and software development engineer at BOSCH Powertrain Solutions. Passionate about algorithmic thinking, I also explore data science and artificial intelligence through personal projects. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysnrdurak&color=lightgrey" alt="aysnrdurak" /> </p>
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>  
-</p>
 
 - 📫 How to reach me **aysnrdurak@gmail.com**
 - 🔭 Medium: @aysnrdurak
